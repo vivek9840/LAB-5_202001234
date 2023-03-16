@@ -14,7 +14,7 @@
 
 ## screen shot of the application of the tool:
 
-![the screenshot of terminal](202001234.png "the screen-shot of the original test run")
+![the screenshot of terminal](https://github.com/[vivek9840]/[LAB-5_202001234]/blob/[main]/202001234.png?raw=true "the screen-shot of the original test run")
 
 ### Reference to the repository:
 
